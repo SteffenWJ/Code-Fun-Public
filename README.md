@@ -13,6 +13,8 @@ However, as the creators asked, I won't be providing puzzle input, puzzle text, 
 **Current task 2015**: [Python] Started it in Python.  
 When 2025 starts, I will take part, but not daily if I don't have time.
 
+[Code Wars](https://www.codewars.com) - Trying out code wars to see what it is like comapred to Leetcode, but is it the same kind of thing, still only in python as i dont have my C++ enviorment setup right now, but want to move to it. 
+
 **Future plans:** I plan to do more of them, maybe some Leetcode, and whatever else I can find out there. I also plan to use ohter Languages like C++ and Java for some of these.  
 Who know maybe i will go crazy and try to do this in Structured Text.
 
