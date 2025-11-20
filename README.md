@@ -9,13 +9,13 @@ It is not meant to be a showcase of special coding skills, but I will add commen
 However, as the creators asked, I won't be providing puzzle input, puzzle text, or anything else. Only my code and thoughts.
 
 **Current progress:**  
-**Paused(ish) 2024**: [Python] Switched to 2015 as it should be a bit easier, and I want to get it done before.  
+**Paused(ish) 2024**: [Python] Switched to 2015 as it should be a bit easier, and I want to get it done before the 2025 events start.  
 **Current task 2015**: [Python] Started it in Python.  
 When 2025 starts, I will take part, but not daily if I don't have time.
 
-[Code Wars](https://www.codewars.com) - Trying out code wars to see what it is like comapred to Leetcode, but is it the same kind of thing, still only in python as i dont have my C++ enviorment setup right now, but want to move to it. 
+[Code Wars](https://www.codewars.com) - Trying out Code Wars to see what it is like compared to Leetcode, but is it the same kind of thing? It's still only in Python, but moving on to C++ in a bit.
 
-**Future plans:** I plan to do more of them, maybe some Leetcode, and whatever else I can find out there. I also plan to use ohter Languages like C++ and Java for some of these.  
+**Future plans:** I plan to do more of them, maybe some Leetcode, and whatever else I can find. I also plan to use other languages, such as C++ and Java, for some of these.  
 Who know maybe i will go crazy and try to do this in Structured Text.
 
 **Personal rules:**  
