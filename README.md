@@ -12,7 +12,7 @@ However, as the creators asked, I won't be providing puzzle input, puzzle text, 
 **Paused(ish) 2024**: [Python] Switched to 2015 as it should be a bit easier, and I want to get it done before the 2025 events start.  
 **Paused(ish) 2015**: [Python] Started it in Python, and the status is 1-16 is done. I have skipped 7, and 12 is missing part 2. I know what to do and what my error is, but it annoyed me, so I skipped it for now. However, as AoC for 2025 is starting, the 2015 is on hold-ish, I might still work on it, but 2025 takes priority.   
 **Current task 2025**: [C++] Going to try and work on this daily, and I will work on it in C++ using the CLION IDE. Later, I will provide the CMAKE I am using when I am a bit further, and if anything is interesting. I am also being cheeky, using simple structs instead of full headers, as it seems overkill at the start. When I am done, I will go back and make it a bit more CLEAN and correct.  
-Day 1 done - 11 more to go.  
+Day 1,4-5 is done. 2 was skipped for lack of time, but I am going back to it when I can, and 3 is half done. I know what to do for part 2, but I ran out of time.
 
 
 [Code Wars](https://www.codewars.com) - Trying out Code Wars to see what it is like compared to Leetcode, but is it the same kind of thing? It's still only in Python, but moving on to C++ in a bit.
